@@ -7,6 +7,6 @@ class Mymodel(admin.ModelAdmin):
 # Register your models here.
 # admin.site.register(UserProfile)
 admin.site.register(UserSettings)
-admin.site.register(Hobby)
+admin.site.register(Hobby) 
 admin.site.register(Person)
 # admin.site.register(Person)
